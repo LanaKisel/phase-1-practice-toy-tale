@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 27
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 27
     },
     {
       "id": 4,
@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "LanaKisel",
+      "image": "https://images.pexels.com/photos/1522186/pexels-photo-1522186.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Eddie",
+      "image": "https://images.pexels.com/photos/248704/pexels-photo-248704.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "lklklk",
+      "image": "https://images.pexels.com/photos/208147/pexels-photo-208147.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
